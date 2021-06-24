@@ -1,0 +1,7 @@
+# CSC111 Winter 2020 Project: Video Game Recommendation System
+
+# Testing and code checking
+python-ta~=1.6.3
+
+# Graphics and data visualization
+pygame==2.0.1
